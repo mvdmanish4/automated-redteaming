@@ -1,0 +1,8 @@
+# Vulnerable E-commerce Application Dependencies
+# =============================================
+# WARNING: This application is intentionally vulnerable
+# for educational and authorized testing purposes only.
+
+Flask==3.0.0
+Werkzeug==3.0.0
+gunicorn==21.2.0
